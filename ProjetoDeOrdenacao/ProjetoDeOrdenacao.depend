@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1790131016 source:c:\users\ryana\downloads\ordenação\projetodeordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
